@@ -9,4 +9,9 @@ export default defineNuxtConfig({
       mode: "client",
     },
   ],
+  vite: {
+    define: {
+      "process.env.DEBUG": false,
+    },
+  },
 });
