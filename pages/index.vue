@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="container">
     <h1>王氏家族相冊</h1>
   </div>
 </template>
