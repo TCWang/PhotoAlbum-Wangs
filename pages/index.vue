@@ -1,6 +1,6 @@
 <template>
   <div>
-    <button class="btn btn-primary">Click me</button>
+    <h1>王氏家族相冊</h1>
   </div>
 </template>
 
