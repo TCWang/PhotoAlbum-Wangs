@@ -2,7 +2,7 @@
   <div>
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
       <div class="container-fluid">
-        <a class="navbar-brand" href="#">Navbar</a>
+        <a class="navbar-brand" href="#">王氏家族相冊</a>
         <button
           class="navbar-toggler"
           type="button"
@@ -16,11 +16,22 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#">Home</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Link</a>
+            <li class="nav-item dropdown">
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                追憶父母
+              </a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="#">家族傳承</a></li>
+                <li><a class="dropdown-item" href="#">追憶父親</a></li>
+                <li><a class="dropdown-item" href="#">追憶母親</a></li>
+                <li><a class="dropdown-item" href="#">想念舅舅</a></li>
+              </ul>
             </li>
             <li class="nav-item dropdown">
               <a
@@ -30,24 +41,58 @@
                 data-bs-toggle="dropdown"
                 aria-expanded="false"
               >
-                Dropdown
+                生活回顧
               </a>
               <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="#">Action</a></li>
-                <li><a class="dropdown-item" href="#">Another action</a></li>
-                <li><hr class="dropdown-divider" /></li>
-                <li>
-                  <a class="dropdown-item" href="#">Something else here</a>
-                </li>
+                <li><a class="dropdown-item" href="#">眷村生活</a></li>
+                <li><a class="dropdown-item" href="#">軍旅生活</a></li>
+                <li><a class="dropdown-item" href="#">團圓相聚</a></li>
+                <li><a class="dropdown-item" href="#">重要里程</a></li>
+                <li><a class="dropdown-item" href="#">尋根之旅</a></li>
               </ul>
             </li>
-            <li class="nav-item">
-              <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+            <li class="nav-item dropdown">
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                享受當下
+              </a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="#">1.芳</a></li>
+                <li><a class="dropdown-item" href="#">2.龍</a></li>
+                <li><a class="dropdown-item" href="#">3.鳳</a></li>
+                <li><a class="dropdown-item" href="#">4.中</a></li>
+                <li><a class="dropdown-item" href="#">5.鼎</a></li>
+                <li><a class="dropdown-item" href="#">6.煌</a></li>
+              </ul>
+            </li>
+            <li class="nav-item dropdown">
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                展望未來
+              </a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="#">台灣</a></li>
+                <li><a class="dropdown-item" href="#">加拿大</a></li>
+                <li><a class="dropdown-item" href="#">美國</a></li>
+              </ul>
             </li>
           </ul>
+
+          <a class="m-auto" aria-current="page" href="#">登入</a>
+
           <form class="d-flex" role="search">
             <input
-              class="form-control me-2"
+              class="form-control me-1"
               type="search"
               placeholder="Search"
               aria-label="Search"
