@@ -1,0 +1,1 @@
+import{_ as e,v as t,t as s,x as c}from"./entry.jsh6_TNN.js";const o={},n={class:"container"},_=c("h1",null,"王氏家族相冊",-1),a=[_];function r(d,i){return s(),t("div",n,a)}const f=e(o,[["render",r]]);export{f as default};
