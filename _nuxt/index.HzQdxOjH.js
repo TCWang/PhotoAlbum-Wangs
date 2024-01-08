@@ -1,1 +1,0 @@
-import{_ as e,v as t,t as c,x as n}from"./entry.obzN2n_3.js";const s={},o=n("button",{class:"btn btn-primary"},"Click me",-1),r=[o];function a(_,i){return c(),t("div",null,r)}const l=e(s,[["render",a]]);export{l as default};
