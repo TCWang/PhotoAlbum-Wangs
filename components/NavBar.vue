@@ -1,8 +1,8 @@
 <template>
   <div>
-    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <nav class="navbar navbar-expand-lg bg-body-tertiary mb-2">
       <div class="container-fluid">
-        <a class="navbar-brand" href="#">王氏家族相冊</a>
+        <a class="navbar-brand" href="/">王氏家族相冊</a>
         <button
           class="navbar-toggler"
           type="button"
@@ -27,7 +27,11 @@
                 追憶父母
               </a>
               <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="#">家族傳承</a></li>
+                <li>
+                  <a class="dropdown-item" href="/parents/inheritance"
+                    >家族傳承</a
+                  >
+                </li>
                 <li><a class="dropdown-item" href="#">追憶父親</a></li>
                 <li><a class="dropdown-item" href="#">追憶母親</a></li>
                 <li><a class="dropdown-item" href="#">想念舅舅</a></li>
@@ -64,7 +68,7 @@
               <ul class="dropdown-menu">
                 <li><a class="dropdown-item" href="#">1.芳</a></li>
                 <li><a class="dropdown-item" href="#">2.龍</a></li>
-                <li><a class="dropdown-item" href="#">3.鳳</a></li>
+                <li><a class="dropdown-item" href="/current/rank3">3.鳳</a></li>
                 <li><a class="dropdown-item" href="#">4.中</a></li>
                 <li><a class="dropdown-item" href="#">5.鼎</a></li>
                 <li><a class="dropdown-item" href="#">6.煌</a></li>
@@ -89,18 +93,6 @@
           </ul>
 
           <a class="m-auto" aria-current="page" href="#">登入</a>
-
-          <form class="d-flex" role="search">
-            <input
-              class="form-control me-1"
-              type="search"
-              placeholder="Search"
-              aria-label="Search"
-            />
-            <button class="btn btn-outline-success" type="submit">
-              Search
-            </button>
-          </form>
         </div>
       </div>
     </nav>
