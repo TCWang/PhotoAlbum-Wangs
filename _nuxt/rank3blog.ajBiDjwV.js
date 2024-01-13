@@ -1,4 +1,6 @@
-const r=[{id:"R3-2024-01",title:"在海外打拚的二代",date:"12/29/23",place:"溫哥華",figure:"S_95879264-R3-2024-01.jpg",content:`2023年12月，在寒冷的冬季，随著兩位姪女前往加拿大。西岸溫哥華，東岸蒙特利爾市，相隔東西兩岸，直線距離相距3,682公里。出發前，好友們提出溫馨的警告：冬季時間天候因素，實不宜前往。念及已屆75高齡，未來機會較少。把握對的時間，當下作出正確的決擇。依然堅持活在當下，出發！\r
+const r=[{id:"R3-2024-01",title:"在海外打拚的二代",date:"12/29/23",place:"溫哥華",figure:"S_95879264-R3-2024-01.jpg",content:`<div class="row">\r
+<div class="col-md-6">\r
+2023年12月，在寒冷的冬季，随著兩位姪女前往加拿大。西岸溫哥華，東岸蒙特利爾市，相隔東西兩岸，直線距離相距3,682公里。出發前，好友們提出溫馨的警告：冬季時間天候因素，實不宜前往。念及已屆75高齡，未來機會較少。把握對的時間，當下作出正確的決擇。依然堅持活在當下，出發！\r
 <br><br>\r
 2023年12月14日從台北桃園機塲出發。隨同返回加拿大的兩位姪女艾倫及芝倫前往加拿大。首站抵達溫哥華居住停留。兩位姪女返加，已經開始各自的工作。\r
 <br><br>\r
@@ -12,9 +14,20 @@ const r=[{id:"R3-2024-01",title:"在海外打拚的二代",date:"12/29/23",place
 <br><br>\r
 目前初到此處僅三天，一切適者生存中。大家也處在新春期間，公共場所博物館、美術館、運動塲所都在放假中，我們僅能先吃吃喝喝，顧好自己的身體了。\r
 <br><br>\r
-世代交替，新世代的年輕人，有自己的看法及生活方式，與上一世代不同；在努力工作，打拚開創世野格局之餘，如何享受自己的生活也是本領之一。來此親眼目睹她們在海外生活體驗，不虛此行！`,category:"rank3"},{id:"R3-2024-02",title:"活動篇",date:"1/1/24",place:"蒙特利爾",figure:"S_95995178-R3-2024-02.jpg",content:`2024年元旦第一天，根據氣象局報告，今天有陽光，五小時。昨晚姪女艾倫已經先行告知：早上九點起床，準備好在陽光之日作戶外活動。\r
+世代交替，新世代的年輕人，有自己的看法及生活方式，與上一世代不同；在努力工作，打拚開創世野格局之餘，如何享受自己的生活也是本領之一。來此親眼目睹她們在海外生活體驗，不虛此行！<br><br>\r
+</div>\r
+<div class="col-md-6">\r
+\r
+<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/S_95879265_0.jpg" class="img-fluid mb-1" style="width:300px"  />\r
+<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/S_95879267_0.jpg" class="img-fluid mb-1" style="width:300px"  />\r
+<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/S_95879268_0.jpg" class="img-fluid mb-1" style="width:300px"  />\r
+<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/S_95879270_0.jpg" class="img-fluid mb-1" style="width:300px"  />\r
+</div>\r
+</div>`,category:"rank3"},{id:"R3-2024-02",title:"活動篇",date:"1/1/24",place:"蒙特利爾",figure:"S_95995178-R3-2024-02.jpg",content:`<div class="row">\r
+<div class="col-md-6">\r
+2024年元旦第一天，根據氣象局報告，今天有陽光，五小時。昨晚姪女艾倫已經先行告知：早上九點起床，準備好在陽光之日作戶外活動。\r
 <br><br>\r
-九黔叫醒艾倫。事前六點已經起床，熬煮一鍋牛肉大骨湯頭，準備吃點麵食就外出活動。元旦首日，放假中，路上行人在零下4、5度左右，一出門猶如開冰箱，必須頭戴毛線帽、穿著羽絨長大衣，絨毛靴子。裝備齊全。幸運的是蒙特利爾市內地下街四通八達，進入地下街卽可躲避冬天的風寒。\r
+九點叫醒艾倫。事前六點已經起床，熬煮一鍋牛肉大骨湯頭，準備吃點麵食就外出活動。元旦首日，放假中，路上行人在零下4、5度左右，一出門猶如開冰箱，必須頭戴毛線帽、穿著羽絨長大衣，絨毛靴子。裝備齊全。幸運的是蒙特利爾市內地下街四通八達，進入地下街卽可躲避冬天的風寒。\r
 <br><br>\r
 今天艾倫特別帶我來到La Grande Roue de Montréal海邊。在此嚴寒冬季在有陽光的日子，才能來此一遊。從住家到此海邊行走卄分鐘。風景區呈現的度假風情。想必夏天來此一遊更有修閒的樂趣。旁邊設有摩天輪眺望周遭的景色。另外有一處是拍攝電影的塲景。我們在此走路運動。\r
 <br><br>\r
@@ -28,7 +41,19 @@ Square Saint-Louis\r
 <br><br>\r
 參觀聖路易廣塲後，希望找到一座歇腿吃飯的地方，可惜今天是元旦，絕大多數餐廳均休息中，只好打道回府。途中經過速食店（唯一開店的店家）\r
 <br><br>\r
-今天我倆步行約有15,000步。在寒冷的冬天，零下4、5度。非常有成就感。回程中，我的腿已經在抗議了。`,category:"rank3"},{id:"R3-2024-03",title:"街頭壁畫篇",date:"1/10/24",place:"蒙特利爾",figure:"S_96116752-R3-2024-03.jpg",content:`蒙特利爾市，一個有風情、文化、藝術、氣質的城市。每日走走看看，每趟行程走一次，喜愛增加一分。雖然，對這個城市，感覺陌生，但是，驚喜度、好感度，每日俱增。\r
+今天我倆步行約有15,000步。在寒冷的冬天，零下4、5度。非常有成就感。回程中，我的腿已經在抗議了。<br><br>\r
+</div>\r
+<div class="col-md-6">\r
+\r
+<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/S_95995179_0.jpg"  class="img-fluid mb-1" style="width:300px"  />\r
+<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/S_95995180_0.jpg"  class="img-fluid mb-1" style="width:300px"  />\r
+<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/S_95995182_0.jpg"  class="img-fluid mb-1" style="width:300px"  />\r
+<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/S_95995183_0.jpg"  class="img-fluid mb-1" style="width:300px"  />\r
+</div>\r
+</div>\r
+`,category:"rank3"},{id:"R3-2024-03",title:"街頭壁畫篇",date:"1/10/24",place:"蒙特利爾",figure:"S_96116752-R3-2024-03.jpg",content:`<div class="row">\r
+<div class="col-md-6">\r
+蒙特利爾市，一個有風情、文化、藝術、氣質的城市。每日走走看看，每趟行程走一次，喜愛增加一分。雖然，對這個城市，感覺陌生，但是，驚喜度、好感度，每日俱增。\r
 <br><br>\r
 姪女艾倫談道：決定離開渥太華，遷居蒙特利爾市的主因之一，因為此市最大的特色，在於城市藝術氛圍。最喜歡的活動就是欣賞墙畫。截至2021年，蒙特利爾市有超過3,500幅墙畫。其中超過11公里长的聖勞倫斯街（Rue Saint-Laurent）和與其相连的街是牆畫最多最集中地區。\r
 <br><br>\r
@@ -48,4 +73,20 @@ Ella 和 Pitr 是法国的两位壁画家，周游世界，留下自己的作品
 他们作品中很多是「大巨人」。\r
 Ella 和 Pitr 表示：作品主人公代表的是社会中的邊緣階級層。通常是被社会遗棄，不引人注意的那些人。在離開蒙特利尔之後，Ella 和 Pitr 已经前往安大略省的萨德伯里市（Sudbury），正在創作另外一幅大型壁畫。\r
 <br><br>\r
-自從來到此地，看到的壁畫非常多。僅選擇幾幅分享給大家。`,category:"rank3"}];export{r as b};
+自從來到此地，看到的壁畫非常多。僅選擇幾幅分享給大家。 <br><br>\r
+</div>\r
+<div class="col-md-6">\r
+<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/S_96116741_0.jpg"  class="img-fluid mb-1" style="width:300px"  />\r
+<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/S_96116743_0.jpg"  class="img-fluid mb-1" style="width:300px"  />\r
+<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/S_96116744_0.jpg"  class="img-fluid mb-1" style="width:300px"  />\r
+<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/S_96116745_0.jpg"  class="img-fluid mb-1" style="width:300px"  />\r
+<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/S_96116746_0.jpg"  class="img-fluid mb-1" style="width:300px"  />\r
+<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/S_96116747_0.jpg"  class="img-fluid mb-1" style="width:300px"  />\r
+<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/S_96116748_0.jpg"  class="img-fluid mb-1" style="width:300px"  />\r
+<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/S_96116749_0.jpg"  class="img-fluid mb-1" style="width:300px"  />\r
+<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/S_96116750_0.jpg"  class="img-fluid mb-1" style="width:300px"  />\r
+<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/S_96116751_0.jpg"  class="img-fluid mb-1" style="width:300px"  />\r
+<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/S_96116752_0.jpg"  class="img-fluid mb-1" style="width:300px"  />\r
+<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/S_96116754_0.jpg"  class="img-fluid mb-1" style="width:300px"  />\r
+</div>\r
+</div>`,category:"rank3"}];export{r as b};
