@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>部落格</h1>
+    <h1>享受當下 - 鳳</h1>
 
     <BlogDetailHero :blog="blog" />
     <BlogBack />
