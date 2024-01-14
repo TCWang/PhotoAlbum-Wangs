@@ -14,7 +14,7 @@
 <script setup>
 import blogs from "@/data/rank3blog.json";
 const blogsOrganized = {
-  sorted: [...blogs].sort((a, b) => a.date.localeCompare(b.date)),
+  sorted: [...blogs].sort((b, a) => a.id.localeCompare(b.id)),
 };
 </script>
 
