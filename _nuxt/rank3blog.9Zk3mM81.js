@@ -89,4 +89,33 @@ Ella 和 Pitr 表示：作品主人公代表的是社会中的邊緣階級層。
 <img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/S_96116752_0.jpg"  class="img-fluid mb-1" style="width:300px"  />\r
 <img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/S_96116754_0.jpg"  class="img-fluid mb-1" style="width:300px"  />\r
 </div>\r
-</div>`,category:"rank3"}];export{r as b};
+</div>`,category:"rank3"},{id:"R3-2024-04",title:"庶民經濟，菜市場文化",date:"1/14/24",place:"蒙特利爾",figure:"IMG_7905-R3-2024-04.jpeg",content:`<div class="row">\r
+<div class="col-md-6">\r
+想要了解當地人的生活，首先要從菜市場開始。今天2024年元月13日星期六清晨，想要去Marché Atwater市集看看！由於外面大雪紛飛，所以，我們搭乘捷運前往。\r
+<br><br>\r
+今天我第一次搭乘捷，很新奇。與地下街相比較，樸實沒有任何裝飾。地鐵車廂比較大及高（與台灣捷運車廂相比較）。在捷運上採用法語廣播。沒有英語或是其他語言。很酷！\r
+<br><br>\r
+Marché Atwater農產品市集，規模較小。農產品蔬菜水果擺放菜攤上非常整潔有序。很多沒有看過非常新奇。肉類食品看起來像是法式醃漬食品。\r
+<br><br>\r
+買完菜及肉品，逛完市場，到一家網紅餐廳。平常排隊人龍很長。今天尚好，但是，仍然須要等候10-20分鐘。時間到達，進入座下才發現𥚃向坐滿年輕人正在享用早午餐。不愧被稱為網紅餐廳，真可以採用人山人海，座無虛席來形容盛況。\r
+<br><br>\r
+\r
+蒙特利爾市早午餐都是當地的特色。\r
+在這座有北美巴黎之稱的城市，市民最喜愛的食物有雞蛋、薄煎餅、含羞草雞尾酒和血腥瑪麗。他們尤為喜愛後者，許多朋友都認為「Drunch」一詞就是蒙特婁人發明的，意思是喝酒早午餐。這座城市裡的早午餐選擇非常多，有時我們會在星期天吃兩次早午餐。稱這種吃兩次早午餐為「Dunch」(Double Brunch)，而這絕對也是蒙特利爾市的特色。入境隨俗，我們點的這道菜，最貴的菜品，兩人花費五十元加幣。一道菜及咖啡乙杯而已。\r
+\r
+<br><br>\r
+</div>\r
+<div class="col-md-6">\r
+<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/IMG_7904.jpeg"  class="img-fluid mb-1" style="width:300px"  />\r
+<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/IMG_7905-R3-2024-04.jpeg"  class="img-fluid mb-1" style="width:300px"  />\r
+<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/IMG_7906.jpeg"  class="img-fluid mb-1" style="width:300px"  />\r
+<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/IMG_7907.jpeg"  class="img-fluid mb-1" style="width:300px"  />\r
+<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/IMG_7908.jpeg"  class="img-fluid mb-1" style="width:300px"  />\r
+<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/IMG_7909.jpeg"  class="img-fluid mb-1" style="width:300px"  />\r
+<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/IMG_7910.jpeg"  class="img-fluid mb-1" style="width:300px"  />\r
+<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/IMG_7911.jpeg"  class="img-fluid mb-1" style="width:300px"  />\r
+<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/IMG_7912.jpeg"  class="img-fluid mb-1" style="width:300px"  />\r
+<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/IMG_7913.jpeg"  class="img-fluid mb-1" style="width:300px"  />\r
+<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/IMG_7914.jpeg"  class="img-fluid mb-1" style="width:300px"  />\r
+</div>\r
+</div>`}];export{r as b};
