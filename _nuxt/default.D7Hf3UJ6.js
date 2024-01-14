@@ -1,0 +1,1 @@
+import{_ as t}from"./NavBar.3CrMdd_5.js";import{_ as n,c,b as s,U as a,o as r}from"./entry.9-ntwL63.js";const _={},d={class:"container"};function f(e,l){const o=t;return r(),c("div",d,[s(o),a(e.$slots,"default")])}const p=n(_,[["render",f]]);export{p as default};
