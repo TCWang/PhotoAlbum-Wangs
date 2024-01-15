@@ -118,4 +118,27 @@ Marché Atwater農產品市集，規模較小。農產品蔬菜水果擺放菜�
 <img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/IMG_7913.jpeg"  class="img-fluid mb-1" style="width:300px"  />\r
 <img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/IMG_7914.jpeg"  class="img-fluid mb-1" style="width:300px"  />\r
 </div>\r
+</div>`},{id:"R3-2024-05",title:"捷運-大衆運輸工具",date:"1/15/24",place:"蒙特利爾",figure:"IMG_7918-R3-2024-5.jpeg",content:`<div class="row">\r
+<div class="col-md-6">\r
+2024年元月13日星期六，趁著例假日，艾倫提議要到較遠的農產品市場買菜。由於今天天空仍飄著雪花，地上積雪處處都是雪堆。在路上行走，比較困難。搭乘捷運是一個好方法。\r
+<br><br>\r
+來到蒙特利爾第一次搭乘捷運大衆運輸工具。捷運地下道非常單調，沒有什麼景觀及裝飾，地下街相較，相對單調，謹是車站的感覺。\r
+<br><br>\r
+等待上車的地區，完全沒有柵欄及防護欄。看起來，有些兒危險。如果搭車人很多，擁擠時，是否因為推擠掉下軌道的風險。看來我在𣏌人憂天。\r
+<br><br>\r
+捷運站標示及地圖也不很多。由於艾倫也很少搭乘，所以，也是有些迷糊不淸楚，需要確認再確認。\r
+捷運站內標示法文，廣播用語法語。觀光客及英語使用者，自己想辦法了解囉！酷！\r
+<br><br>\r
+\r
+捷運車箱高大，與台灣台北比較。\r
+我們今天搭乘時，人不太多。上下車很方便。\r
+\r
+搭乘捷運，周末全天候使用不限次數，一人加幣15.25元（新台幣350.75元）。單趟3.5元加幣。捷運站與火車站、地下街完全相連結，搭乘方便。\r
+<br><br>\r
+</div>\r
+<div class="col-md-6">\r
+<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/IMG_7915.jpeg"  class="img-fluid mb-1" style="width:300px"  />\r
+<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/IMG_7918-R3-2024-5.jpeg"  class="img-fluid mb-1" style="width:300px"  />\r
+<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/IMG_7916.jpeg"  class="img-fluid mb-1" style="width:300px"  />\r
+</div>\r
 </div>`}];export{r as b};

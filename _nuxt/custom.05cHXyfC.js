@@ -1,0 +1,1 @@
+import{_ as t}from"./NavBar.sbjEZHUD.js";import{_ as c,c as n,b as s,U as r,o as a}from"./entry.VBwloAN2.js";const _={},d={class:"container-fluid"};function f(o,l){const e=t;return a(),n("div",d,[s(e),r(o.$slots,"default")])}const p=c(_,[["render",f]]);export{p as default};
