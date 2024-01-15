@@ -1,5 +1,5 @@
 <template>
-  <div class="row">
+  <div class="row g-1">
     <AlbumCard v-for="photo in photos" :key="photo.id" :photo="photo" />
   </div>
 </template>
