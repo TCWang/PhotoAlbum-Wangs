@@ -1,4 +1,4 @@
-const r=[{id:"R3-2024-01",title:"在海外打拚的二代",date:"12/29/23",place:"溫哥華",figure:"S_95879264-R3-2024-01.jpg",content:`<div class="row">\r
+const r=[{id:"R3-2024-01",title:"在海外打拚的二代",date:"12/29/23",place:"溫哥華",figure:"S_95879270_0.jpg",content:`<div class="row">\r
 <div class="col-md-6">\r
 2023年12月，在寒冷的冬季，随著兩位姪女前往加拿大。西岸溫哥華，東岸蒙特利爾市，相隔東西兩岸，直線距離相距3,682公里。出發前，好友們提出溫馨的警告：冬季時間天候因素，實不宜前往。念及已屆75高齡，未來機會較少。把握對的時間，當下作出正確的決擇。依然堅持活在當下，出發！\r
 <br><br>\r
@@ -21,7 +21,7 @@ const r=[{id:"R3-2024-01",title:"在海外打拚的二代",date:"12/29/23",place
 <img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/S_95879265_0.jpg" class="img-fluid mb-1" style="width:300px"  />\r
 <img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/S_95879267_0.jpg" class="img-fluid mb-1" style="width:300px"  />\r
 <img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/S_95879268_0.jpg" class="img-fluid mb-1" style="width:300px"  />\r
-<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/S_95879270_0.jpg" class="img-fluid mb-1" style="width:300px"  />\r
+<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/S_95879264-R3-2024-01.jpg" class="img-fluid mb-1" style="width:300px"  />\r
 </div>\r
 </div>`,category:"rank3"},{id:"R3-2024-02",title:"活動篇",date:"1/1/24",place:"蒙特利爾",figure:"S_95995178-R3-2024-02.jpg",content:`<div class="row">\r
 <div class="col-md-6">\r
@@ -47,7 +47,6 @@ Square Saint-Louis\r
 \r
 <img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/S_95995179_0.jpg"  class="img-fluid mb-1" style="width:300px"  />\r
 <img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/S_95995180_0.jpg"  class="img-fluid mb-1" style="width:300px"  />\r
-<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/S_95995182_0.jpg"  class="img-fluid mb-1" style="width:300px"  />\r
 <img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/S_95995183_0.jpg"  class="img-fluid mb-1" style="width:300px"  />\r
 </div>\r
 </div>\r
@@ -86,7 +85,6 @@ Ella 和 Pitr 表示：作品主人公代表的是社会中的邊緣階級層。
 <img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/S_96116749_0.jpg"  class="img-fluid mb-1" style="width:300px"  />\r
 <img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/S_96116750_0.jpg"  class="img-fluid mb-1" style="width:300px"  />\r
 <img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/S_96116751_0.jpg"  class="img-fluid mb-1" style="width:300px"  />\r
-<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/S_96116752_0.jpg"  class="img-fluid mb-1" style="width:300px"  />\r
 <img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/S_96116754_0.jpg"  class="img-fluid mb-1" style="width:300px"  />\r
 </div>\r
 </div>`,category:"rank3"},{id:"R3-2024-04",title:"庶民經濟，菜市場文化",date:"1/14/24",place:"蒙特利爾",figure:"IMG_7905-R3-2024-04.jpeg",content:`<div class="row">\r
@@ -107,7 +105,7 @@ Marché Atwater農產品市集，規模較小。農產品蔬菜水果擺放菜�
 </div>\r
 <div class="col-md-6">\r
 <img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/IMG_7904.jpeg"  class="img-fluid mb-1" style="width:300px"  />\r
-<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/IMG_7905-R3-2024-04.jpeg"  class="img-fluid mb-1" style="width:300px"  />\r
+<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/IMG_7905.jpeg"  class="img-fluid mb-1" style="width:300px"  />\r
 <img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/IMG_7906.jpeg"  class="img-fluid mb-1" style="width:300px"  />\r
 <img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/IMG_7907.jpeg"  class="img-fluid mb-1" style="width:300px"  />\r
 <img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/IMG_7908.jpeg"  class="img-fluid mb-1" style="width:300px"  />\r
@@ -138,7 +136,7 @@ Marché Atwater農產品市集，規模較小。農產品蔬菜水果擺放菜�
 </div>\r
 <div class="col-md-6">\r
 <img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/IMG_7915.jpeg"  class="img-fluid mb-1" style="width:300px"  />\r
-<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/IMG_7918-R3-2024-5.jpeg"  class="img-fluid mb-1" style="width:300px"  />\r
+<img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/IMG_7918.jpeg"  class="img-fluid mb-1" style="width:300px"  />\r
 <img src="https://azeyrfyjaiokmhihskfh.supabase.co/storage/v1/object/public/AlbumImage/rank3/blog20231219/IMG_7916.jpeg"  class="img-fluid mb-1" style="width:300px"  />\r
 </div>\r
 </div>`}];export{r as b};
