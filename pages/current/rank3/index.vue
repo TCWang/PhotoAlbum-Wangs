@@ -6,7 +6,7 @@
       <thead>
         <tr>
           <th>年份/項目</th>
-          <th>地點</th>
+
           <th>紀錄</th>
           <th>照片</th>
         </tr>
@@ -14,7 +14,6 @@
       <tbody>
         <tr>
           <td>2024 加拿大旅遊</td>
-          <td>溫哥華 ＆ 蒙特利爾</td>
 
           <td>
             <button class="btn btn-primary m-2">
